@@ -1,2 +1,3 @@
 # AS92005
 This is an assessment for NZQA AS92005, this website has information about how to and why you should recycle along with an informative video. This design justifies the users needs by allowing them to understand the premise of the website, and inform them of recycling. The design had to follow a list of requirements made up by me therefore it would feel more like my own website and it meets the users needs with specifications. With help from my stakeholders, I was able to make a design fitting for year 7-10 students at Te Paepae O Aotea, there input helped a lot with the decision making of which direction the website should take.
+</br> Read the [Standard AS92005](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=92005) to find out more.
