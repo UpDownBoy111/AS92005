@@ -1,0 +1,106 @@
+body {
+    flex-wrap: wrap;
+}
+
+main {
+    position: relative;
+}
+
+
+h1 {
+    position: absolute;
+    text-align: center;
+    margin-left: 22.3%;
+    margin-top: -2px;
+    background-color: white;
+    border: 5px;
+    border-style: solid;
+}
+
+p.paragraph1 {
+    position: absolute;
+    margin-left: 22.3%;
+    margin-top: 14.3%;
+    font-size: 20px;
+    text-align: center;
+    border: black;
+    border-style: solid;
+    background-color: white;
+}
+
+p.paragraph2 {
+    position: absolute;
+    margin-left: 22.3%;
+    margin-top: 30%;
+    font-size: 20px;
+    text-align: center;
+    border: black;
+    border-style: solid;
+    background-color: white;
+}
+
+img {
+    border: 5px;
+    border-style: solid;
+}
+
+.image-container {
+    position: relative;
+}
+
+img.Recycling {
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 58%;
+    border-width: 0;
+}
+
+img.HowToRecycle {
+    position: absolute;
+    margin-left: 41.1%;
+    margin-top: 29%;
+}
+
+img.TPOALogo {
+    position: absolute;
+    margin-left: 1%;
+    border-width: 0;
+}
+
+.TPOALogo:hover{
+    opacity: 0.5;
+}
+
+.rectangle {
+    position: absolute;
+    background-color: rgb(151, 247, 215);
+    margin-left: 22.3%;
+    overflow: hidden;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #150958;
+  margin-top: -8px;
+  margin-left: -7px;
+  width: 100.9%;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 0.8vw .9vw;
+  text-decoration: none;
+  font-size: 1.1vw;
+}
+
+.topnav a:hover {
+  background-color: #100649;
+  color: rgb(255, 255, 255);
+}
+
+.topnav a.active {
+  background-color: rgb(151, 247, 215);
+  color: rgb(0, 0, 0);
+}
